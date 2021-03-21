@@ -1,0 +1,6 @@
+﻿  2.2.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Lab2.2\Lab2.2\2.2.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Integers.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Lab2.2\Lab2.2\Integers.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Generating Code...
+  Lab2.2.vcxproj -> C:\Student\ Tkachenko.Marharyta.IK11\Lab2.2\Debug\Lab2.2.exe
